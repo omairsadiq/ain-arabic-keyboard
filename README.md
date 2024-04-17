@@ -1,15 +1,11 @@
 # arabic_keyboard
 
-A new Flutter project.
+A simple Arabic keyboard tutorial flutter app made as a hobby project for those who wanted to learn the Arabic desktop keyboard layout.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project can be cloned to your computer and run in your respective Android emulator or iOS Simulator.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
