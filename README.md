@@ -1,4 +1,4 @@
-# arabic_keyboard
+# Ain Arabic Keyboard
 
 A simple Arabic keyboard tutorial flutter app made as a hobby project for those who wanted to learn the Arabic desktop keyboard layout.
 
